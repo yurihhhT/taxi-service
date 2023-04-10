@@ -18,6 +18,9 @@
         <button>Manage drivers</button>
     </a>
     <a href="${pageContext.request.contextPath}/cars/my">
+        <button>My cars</button>
+    </a>
+    <a href="${pageContext.request.contextPath}/cars">
         <button>Manage cars</button>
     </a>
     <a href="${pageContext.request.contextPath}/logout">
