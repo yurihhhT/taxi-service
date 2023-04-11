@@ -4,7 +4,7 @@
 
 # Taxi-Service
 
-This project it's Taxi-Service simulator.
+This project is Taxi-Service simulator.
 With some features.
 
 ## Features
@@ -35,7 +35,7 @@ When you deploy the project to Tomcat, specify the link  `http://localhost:8080/
 ## Used Technologies
 
 - `Java v11+`
-- `Maven v3.8.`
+- `Maven v3.8.0`
 - `MySQL v8.0.22`
 - `Java Servlets v4.0.1`
 - `TomCat v9.0.73`
